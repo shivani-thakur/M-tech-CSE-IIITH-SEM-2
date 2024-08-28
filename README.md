@@ -41,6 +41,8 @@ One of the key learnings was identifying and addressing code smells, which are i
 
 The Spring 2024 semester at IIIT Hyderabad has been both challenging and rewarding. This repository is a collection of my contributions, and I hope it proves helpful to anyone delving into these subjects. Here’s to a productive and insightful M.Tech-CSE journey!
 
+**🌟 If you find this repository useful, I would greatly appreciate it if you could give it a star!😊**
+
 Warm regards,  
 Shivani Thakur  
 M.Tech-CSE, IIIT Hyderabad
